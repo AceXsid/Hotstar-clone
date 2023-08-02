@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-manrope: Manrope;
+    --font-nerko-one: "Nerko One";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-xs: 12px;
+    --font-size-sm: 14px;
+    --font-size-mini: 15px;
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-gray-100: #252525;
+    --color-gray-200: rgba(0, 0, 0, 0.32);
+    --color-black: #000;
+    --color-gainsboro: #d9d9d9;
+    --color-white: #fff;
+    --color-darkslategray: #383838;
+    --color-dodgerblue: #1f80e0;
+  
+    /* border radiuses */
+    --br-xl: 20px;
+    --br-3xs: 10px;
+  }
+  
